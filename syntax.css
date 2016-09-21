@@ -1,0 +1,83 @@
+div.bakugan{
+  box-sizing: border-box;
+  color: black;
+  display: block;
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+  line-height: 20px;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-left: 15px;
+  padding-right:15px;
+  /* height: @auto;
+  width: 800px; */
+}
+div.vestroia{
+  background-color: #FFFAF0;
+  border-radius: 6px;
+  color:black;
+  display: block;
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+  line-height: 20px;
+  margin-bottom: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  height: 1350px;
+  width: 800px;
+}
+div.fire{
+  box-sizing: border-box;
+  color: black;
+  display: block;
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+  line-height: 20px;
+ /* height: 1000px;
+  width: 800px; */
+}
+div.draganoid{
+  box-sizing: border-box;
+  color: black;
+  display: block;
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+  line-height: 20px;
+ /* height: 1850px;
+  width: 800px; */
+  float: left;
+  min-height: 1px;
+  position: relative;
+}
+div.drago{
+  background-color: white;
+  border-color: rgb(221, 221, 221);
+  border-radius: 4px;
+  border-style: solid;
+  box-sizing: border-box;
+  color: black;
+  display: block;
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+  line-height: 20px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 20px;
+  padding: 4px;
+}
+img{
+  border-color: rgb(221, 221, 221);
+  border-radius: 4px;
+  border-style: solid;
+  box-sizing: border-box;
+  color: black;
+  display: block;
+  margin-left: 0px;
+  margin-right: 0px;
+  position: relative;
+  padding-right: @ auto;
+  padding-left: @auto;
+}
+.text_center{
+  text-align: center;
+}
