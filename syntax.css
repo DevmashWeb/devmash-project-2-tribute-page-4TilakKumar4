@@ -20,7 +20,7 @@ div.vestroia{
   font-family: Arial, sans-serif;
   font-size: 15px;
   line-height: 20px;
-  margin-bottom: 30px;
+  margin:0 auto;
   padding-top: 30px;
   padding-bottom: 30px;
   height: 1350px;
@@ -60,10 +60,9 @@ div.drago{
   font-family: Arial, sans-serif;
   font-size: 15px;
   line-height: 20px;
-  margin-right: auto;
-  margin-left: auto;
-  margin-bottom: 20px;
+  margin: 0 auto;
   padding: 4px;
+  text-align: center;
 }
 img{
   border-color: rgb(221, 221, 221);
@@ -71,7 +70,7 @@ img{
   border-style: solid;
   box-sizing: border-box;
   color: black;
-  display: block;
+  display: inline;
   margin-left: 0px;
   margin-right: 0px;
   position: relative;
